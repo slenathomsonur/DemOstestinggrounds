@@ -1,0 +1,7 @@
+{
+  "name": "Dem Bot: AI Code Generator",
+  "description": "An AI-powered assistant that helps you generate code for websites, games, and more. Describe your idea, and Dem Bot will write the HTML, CSS, and JavaScript for you.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
